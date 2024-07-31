@@ -3,12 +3,14 @@ Irei me introduzir...
 
 Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
 
-Jogo favorito: Geometry Dash 🟨
-
-Pizza favorita: Francesa 🟦⬜🟥
-
-Emoção predominante: Incerteza 😣
-
-OS de celular favorito: Android 🤖
-
-OS de pc: Windows e Linux 🐧🟦
+-
+|  Jogo favorito: __Geometry Dash__ 🟨
+|  
+|  Pizza favorita: Francesa 🟦⬜🟥
+|  
+|  Emoção predominante: Incerteza 😣
+|  
+|  OS de celular favorito: Android 🤖
+|  
+|  OS de pc: Windows e Linux 🐧🟦
+-
