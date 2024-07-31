@@ -3,7 +3,7 @@ Irei me introduzir...
 
 Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
 
-_Perguntas e respostas totalmente desnecessarias:_
+**_Perguntas e respostas totalmente desnecessarias:_**
 
 |  Jogo favorito: _Geometry Dash_ 🟨
 
