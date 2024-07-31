@@ -3,6 +3,8 @@ Irei me introduzir...
 
 Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
 
+_Perguntas e respostas totalmente desnecessarias:_
+
 |  Jogo favorito: _Geometry Dash_ 🟨
 
 |  Pizza favorita: _Francesa_ 🟦⬜🟥
