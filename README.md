@@ -1,4 +1,7 @@
-## gaming hahahahahahah
+## yay, você chegou no meu perfil :D
+## Irei me introduzir...
+
+##gaming
 
 <!--
 **Fida113/Fida113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
