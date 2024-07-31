@@ -5,7 +5,7 @@ Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
 
 Meus objetivos: Criar algo bom o suficiente para liberar ao público.
 
-Projeto atual: Album (sem nome por enquanto :D), um album de músicas de estilo retro. O plano é conter 6 até 9 músicas. No momento apenas 2 estão prontas. Progresso total: 20% de conclusão
+Projeto atual: Album (sem nome por enquanto :D), um album de músicas de estilo retro. O plano é conter 6 até 9 músicas. No momento apenas 2 estão prontas e 3 foram idealizadas. Progresso total: 20% de conclusão
 
 
 
