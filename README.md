@@ -1,5 +1,10 @@
 ## yay, você chegou no meu perfil :D
 Irei me introduzir...
 
-Meu nome é fida, sou compositor e faço uns games de vez em quando.
-gamin2
+Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
+
+Jogo favorito: Geometry Dash
+Pizza favorita: Francesa
+Emoção predominante: Incerteza
+OS de celular favorito: Android
+OS de pc: Windows e Linux
