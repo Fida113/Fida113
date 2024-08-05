@@ -27,3 +27,7 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 |  Youtuber mais maneiro: Gabs
 
 ![](assets/GabsFunny.gif)
+
+Quer entrar em contato comigo, por um motivo ou outro? Me chama lá no..
+
+Discord: fida11_
