@@ -23,4 +23,4 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 
 |  Youtuber mais maneiro: Gabs
 
-![](GabsFunny.gif)
+![](assets/GabsFunny.gif)
