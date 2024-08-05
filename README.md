@@ -31,3 +31,7 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 Quer entrar em contato comigo, por um motivo ou outro? Me chama lá no..
 
 Discord: fida11_
+
+Bem, isso é tudo. Obrigado por visitar!
+
+![](assets/SonicWave.gif)
