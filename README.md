@@ -13,7 +13,7 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 
 |  Jogo favorito? **Geometry Dash** 🟨
 
-|  Pizza favorita? **_Francesa_** 🟦⬜🟥
+|  Sabor de pizza favorito? **_Francesa_** 🟦⬜🟥
 
 |  Emoção predominante? **_Incerteza_** 😣
 
