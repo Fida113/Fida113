@@ -23,4 +23,4 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 
   insira gabs jogando nescau aqui!!!!!
 
-<img src=GabsFunny.gif">
+![](GabsFunny.gif)
