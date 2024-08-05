@@ -21,6 +21,5 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 
 |  OS de pc favorito? **_Windows e Linux_** 🐧🟦
 
-  insira gabs jogando nescau aqui!!!!!
-
+|  Youtuber mais maneiro: Gabs
 ![](GabsFunny.gif)
