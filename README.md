@@ -14,16 +14,16 @@ Projeto atual: (sem nome por enquanto :D), um album de músicas de estilo retro.
 
 **_Perguntas e respostas totalmente desnecessarias:_**
 
-  |  Jogo favorito? **Geometry Dash** 🟨
+|  Jogo favorito? **Geometry Dash** 🟨
 
-  |  Sabor de pizza favorito? **_Francesa_** 🟦⬜🟥
+|  Sabor de pizza favorito? **_Francesa_** 🟦⬜🟥
 
-  |  Emoção predominante? **_Incerteza_** 😣
+|  Emoção predominante? **_Incerteza_** 😣
 
-  |  OS de celular favorito? **_Android_** 🤖
+|  OS de celular favorito? **_Android_** 🤖
 
-  |  OS de pc favorito? **_Windows e Linux_** 🐧🟦
+|  OS de pc favorito? **_Windows e Linux_** 🐧🟦
 
-  |  Youtuber mais maneiro: Gabs
+|  Youtuber mais maneiro: Gabs
 
 ![](assets/GabsFunny.gif)
