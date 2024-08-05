@@ -1,6 +1,8 @@
 ## yay, você chegou no meu perfil :D
 Ok, irei me introduzir...
 
+![](assets/SonicThumb.gif)
+
 Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
 
 Meus objetivos: Criar algo bom o suficiente para liberar ao público.
