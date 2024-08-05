@@ -1,7 +1,5 @@
-## yay, você chegou no meu perfil :D
+## yay, você chegou no meu perfil :D ![](assets/SonicThumb.png)
 Ok, irei me introduzir...
-
-![](assets/SonicThumb.png)
 
 Meu nome é **Fida**, sou compositor e faço uns games de vez em quando.
 
