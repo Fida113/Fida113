@@ -34,4 +34,4 @@ Discord: fida11_
 
 Bem, isso é tudo. Obrigado por visitar!
 
-![](assets/SonicPeace.png)
+![](assets/SonicPeace.jpeg)
